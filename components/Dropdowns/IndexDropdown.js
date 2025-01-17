@@ -53,16 +53,6 @@ const IndexDropdown = () => {
             Dashboard
           </p>
         </Link>
-        <Link href="/admin/settings">
-          <p
-            href="#pablo"
-            className={
-              "text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700"
-            }
-          >
-            Settings
-          </p>
-        </Link>
 
         <div className="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
         <span
